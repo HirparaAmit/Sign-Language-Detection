@@ -10,7 +10,7 @@ This code is able to identify 5 signs:
 5. I Love You
 
 **NOTE:** <br>
-You can make your own dataset in order to create your own sign language detection model. To do so, one can use `Dataset_Creation.ipynb` jupyter notebook.
+You can make your own dataset in order to create your own sign language detection model. To do so, one can use `Dataset_Creation.ipynb` notebook.
 
 ## Dataset
 
