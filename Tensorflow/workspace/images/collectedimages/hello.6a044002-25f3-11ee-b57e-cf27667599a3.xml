@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.6a044002-25f3-11ee-b57e-cf27667599a3.jpg</filename>
+	<path>D:\Projects\Sign-Language-Detection\Tensorflow\workspace\images\collectedimages\hello.6a044002-25f3-11ee-b57e-cf27667599a3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>83</ymin>
+			<xmax>640</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
